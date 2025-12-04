@@ -1,6 +1,6 @@
 ## About Jacob Proffer
 
-I'm a front-end developer based in Marquette, Michigan with over nine years of experience.
+I'm a front-end developer based in Marquette, Michigan with over ten years of experience.
 
 ### Fun Facts
 - I’m currently working with Astro, Tailwind, and TypeScript.
